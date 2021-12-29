@@ -1,0 +1,33 @@
+.form-grid{
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title_search{
+  font-family: 'Anton', sans-serif;
+  margin: 20px;
+}
+.search-input{
+    width: 90%;
+    height: 30px;
+    margin: 0.5rem;
+}
+
+.btn-submit{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.details_pets{
+  text-decoration: none;
+  cursor: pointer;
+  font-family: 'Anton', sans-serif;
+  color: black;
+}
+.details_pets:hover{
+  color: #0000EE
+}

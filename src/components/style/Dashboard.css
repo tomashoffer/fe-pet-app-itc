@@ -1,0 +1,14 @@
+.action_btn{
+    width: 200px;
+}
+.table_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+}
+.dashboard_title{
+    margin: 20px
+}
